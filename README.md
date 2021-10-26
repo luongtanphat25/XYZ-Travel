@@ -4,6 +4,7 @@ This is an final assignment of my Open Source Programming Course in Humber Colle
 - User can create an account to book an tour (CN Tower, Wonderland, Thousand Islands).
 - Admin can see and modify all the users's information.
 - Admin can group users into a group (automatically grouped by the same location and date).
+- Admin: admin@gmail.com/admin
 
 ## Database
 - tours [tour_id, tour_name, travel_date]
