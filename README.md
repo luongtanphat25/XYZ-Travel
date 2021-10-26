@@ -10,8 +10,7 @@ This is an final assignment of my Open Source Programming Course in Humber Colle
 - users [re_id, email, password, customer_name, address, group_id, group_size]
 - groups [tour_id, re_id]
 
-##Demo Website 
-[XYZ-Travel Agency](https://xyz-travel.herokuapp.com)
+## [Demo Website: XYZ-Travel Agency](https://xyz-travel.herokuapp.com)
 
 
 ## Contributing
